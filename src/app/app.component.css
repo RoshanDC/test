@@ -1,0 +1,18 @@
+html,body{
+    background-image:url(../assets/images/blur-bg.jpg);
+    margin: -0.26%;
+    min-height: 720px;
+    height: 99vh;
+    margin-top: -0.60%;
+
+}
+
+#header{
+    color: #fff;
+    padding-top: 10%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-bottom: 1%;
+
+}

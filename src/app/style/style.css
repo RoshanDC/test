@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+
+#wrapper{
+    background-color:#999;
+    height: 100%;
+    width : 100%;
+    margin : 0 auto;
+}
+
+#heading{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 42%;
+    padding-top:10%;
+    padding-bottom: 2%;
+}
